@@ -19,11 +19,10 @@ Created using Ejs, CSS, Node.js, Express.js, mongoDB and deployed on Heroku.
 <h2> TESTING-- </h2>
                                                                                         
 <ul>
-  <li>Download the project</li>
-  <li>Extract the downloaded files.</li>
-  <li>install <a href="https://www.npmjs.com/get-npm">npm</a>.</li>
-  <li>open cmd prompt and cd to the downloaded files directory.</li>
-  <li>run=>  npm i</li>
+  <li>Clone the repo</li>
+  <li>Install <a href="https://www.npmjs.com/get-npm">npm</a>.</li>
+  <li>Head over to the cloned folder using CLI</li>
+  <li>Run=>  npm i</li>
   <li>Now run=> nodemon app.js </li>
   <li>Now now go to localhost:4000 in your browser and you can now try Todo-list--v1 in your pc.</li>
 </ul>
