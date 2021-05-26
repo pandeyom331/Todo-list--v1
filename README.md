@@ -1,5 +1,3 @@
-# Todo-list--v1
-
 <h1>TITLE--Todo-list--v1</h1>
 <a href="https://todo-list--v1.herokuapp.com/">Todo-list--v1</a>
 Created using Ejs, CSS, Node.js, Express.js, mongoDB and deployed on Heroku.
